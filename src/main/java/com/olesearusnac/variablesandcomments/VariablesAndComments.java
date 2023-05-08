@@ -20,7 +20,6 @@ public class VariablesAndComments {
         double lowerLimitOfDoubleDataType;
         double upperLimitOfDoubleDataType;
 
-
         falseBooleanVariable = false;
         trueBooleanVariable = true;
         firstFromAscii = 'a';
